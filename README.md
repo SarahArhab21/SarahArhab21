@@ -1,19 +1,20 @@
-## Hi , I'm Sarah 👋
+Hi , I’m Sarah 👋
 
-.👩🏻‍💻 Master 1 in software engineering student sharing my journey and learning in tech </br>
-.😄 Passionate about UI/UX design and creative development </br>
-.🔭 Currently learning formal methods to specify, model and verify software for critical systems
-<!--
-**SarahArhab21/SarahArhab21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.👩🏻‍💻 Master 1 in software engineering student sharing my journey and learning in tech
 
-Here are some ideas to get you started:
+.😄 Passionate about UI/UX design and creative development
+.🔭 Currently learning formal methods to specify, model and verify software for critical systems qsq ten pense?
+🌐 Socials:
+Discord [LinkedIn](https://linkedin.com/in/ARHAB Sarah Hanane) email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C LaTeX Java JavaScript OCaml PHP R Python HTML5 Laravel Vue.js Apache ApacheCassandra MySQL Adobe Acrobat Reader Figma Adobe Illustrator
+
+📊 GitHub Stats:
+
+
+
+
+
+
+
