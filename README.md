@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi , I'm Sarah 👋
 
+.👩🏻‍💻 Master 1 in software engineering student sharing my journey and learning in tech </br>
+.😄 Passionate about UI/UX design and creative development </br>
+.🔭 Currently learning formal methods to specify, model and verify software for critical systems
 <!--
 **SarahArhab21/SarahArhab21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
